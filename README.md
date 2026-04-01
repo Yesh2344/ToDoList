@@ -52,3 +52,5 @@ You can customize the contact information or any other section to better fit you
 
 ## Changelog
 - v3.8.2: Performance improvements
+
+> Note: Updated in v6.1.3
