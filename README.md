@@ -49,3 +49,6 @@ To run the app locally:
 3. Open index.html at your prefered browser.
 
 You can customize the contact information or any other section to better fit your needs.
+
+## Changelog
+- v3.8.2: Performance improvements
