@@ -57,3 +57,5 @@ You can customize the contact information or any other section to better fit you
 
 ---
 Last updated: v5.5.7
+
+> Note: Updated in v9.6.3
